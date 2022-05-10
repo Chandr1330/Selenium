@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-06T10:21:10Z" name="Default suite" finished-at="2022-05-06T10:21:21Z" duration-ms="11267">
+    <groups>
+    </groups>
+    <test started-at="2022-05-06T10:21:10Z" name="Default test" finished-at="2022-05-06T10:21:21Z" duration-ms="11267">
+      <class name="ExtentReport">
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:ExtentReport@7164ca4c]" started-at="2022-05-06T10:21:10Z" name="preCondition" finished-at="2022-05-06T10:21:10Z" duration-ms="348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="extentReportstest()[pri:0, instance:ExtentReport@7164ca4c]" started-at="2022-05-06T10:21:10Z" name="extentReportstest" finished-at="2022-05-06T10:21:21Z" duration-ms="10467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentReportstest -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:ExtentReport@7164ca4c]" started-at="2022-05-06T10:21:21Z" name="endTest" finished-at="2022-05-06T10:21:21Z" duration-ms="414" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- ExtentReport -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
